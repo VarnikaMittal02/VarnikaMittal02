@@ -17,7 +17,7 @@
 - 📫 How to reach me **varnikamittal0@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1smZmvKsYogIhFpREBa0mQKW6Y-30q2yp/view?usp=sharing](https://drive.google.com/file/d/1smZmvKsYogIhFpREBa0mQKW6Y-30q2yp/view?usp=sharing)
-
+- ⚡ Fun fact **I think i am funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varnika-mittal-879776236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varnika-mittal-879776236" height="30" width="40" /></a>
