@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/VarnikaMittal02/VarnikaMittal02/blob/main/Purple%20Minimalist%20Brush%20Personal%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Varnika Mittal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">
