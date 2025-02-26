@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varnika Mittal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="400" alt="coding">
+</p>
 
 <img align="center" padding-left="500" width="400"  alt="coding" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
