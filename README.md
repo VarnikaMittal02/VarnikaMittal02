@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Varnika Mittal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">
